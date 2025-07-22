@@ -89,7 +89,7 @@ La arquitectura ya demostró ser extensible en pruebas de concepto al incorporar
 - Nuevo método de pago (transferencia bancaria)  
 - Descuentos por temporada (Black Friday)  
 
-###Cumplimiento de Principios SOLID en el Proyecto
+**Cumplimiento de Principios SOLID en el Proyecto**
 
 1. Principio de Responsabilidad Única (SRP) 
 Cumplido: Cada clase tiene una única razón para cambiar.
